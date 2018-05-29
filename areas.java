@@ -20,7 +20,7 @@ public class areas {
             base= Integer.parseInt(JOptionPane.showInputDialog("Introduce la base :"));
             altura= Integer.parseInt(JOptionPane.showInputDialog("Introduce la altura :"));
             System.out.println("El área del triángulo es: " +(base*altura)/2);
-            break;
+            break;      
             case 4:
             int radio= Integer.parseInt(JOptionPane.showInputDialog("El área del circulo es"));
             System.out.printf("%1.2f",Math.PI*(Math.pow(radio, 2)));
