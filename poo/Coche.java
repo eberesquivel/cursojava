@@ -1,6 +1,7 @@
 
 //definición de la clase
 public class Coche {
+//   variables encapsuladas
    private int ruedas;
    private int motor;
    private int largo;
